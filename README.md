@@ -1,10 +1,10 @@
 ```python
-class SoftwareEngineer:
+class SoftwareEngineer(Human):
 
     def __init__(self):
-        self.name = "Hamidreza"
-        self.role = "Back-end Developer"
-        self.language_spoken = ["fa-IR", "en_US"]
+        self.name: str = "Hamidreza"
+        self.role: str = "Back-end Developer"
+        self.language_spoken: dict = {"fa": "Persian/Farsi", "en": "English/USA"}
 
     def say_hi(self):
         print("Thanks for visiting my profile! Feel free to explore my projects.")
