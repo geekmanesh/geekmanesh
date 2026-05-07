@@ -18,20 +18,25 @@ me.say_hi()
 
 **Development Environment:**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=0d006e)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&color=0d006e)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white&color=0d006e)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0d006e)
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&color=0d006e)
-![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&color=0d006e)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=0d006e)
-![Terminal](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white&color=0d006e)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&color=0d006e)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=00FF00&color=0d006e)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=00FF00&color=0d006e)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=00FF00&color=0d006e)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=00FF00&color=0d006e)
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=00FF00&color=0d006e)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=00FF00&color=0d006e)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=00FF00&color=0d006e)
+![Terminal](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=00FF00&color=0d006e)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=00FF00&color=0d006e)
 
 **Languages & Frameworks & Libraries**
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&color=0d006e)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=0d006e)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=0d006e)
-
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=00FF00&color=0d006e)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=00FF00&color=0d006e)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=00FF00&color=0d006e)
 <div>
+
+<p align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=geekmanesh&bg_color=0d006e&title_color=00FF00&text_color=FFFF00&icon_color=00FF00&hide_border=true&border_radius=10&stroke_color=FFFF00&username_color=FFFF00&revert=true&photo_quality=100&title=%20" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geekmanesh&point=00FF00&title_color=ffffff&bg_color=0d006e&line=ffffff&hide_border=true&area=true&area_color=0d006e&color=ffffff&hide_title=true&days=33&">
+</p>
