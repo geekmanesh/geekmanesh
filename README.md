@@ -21,12 +21,12 @@ me.say_hi()
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=00FF00&color=0d006e&)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=00FF00&color=0d006e)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=00FF00&color=0d006e)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=00FF00&color=0d006e)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=00FF00&color=0d006e)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=00FF00&color=0d006e)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=00FF00&color=0d006e)
 ![Terminal](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=00FF00&color=0d006e)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=00FF00&color=0d006e)
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=00FF00&color=0d006e&style=for-the-badge)
 
 **Languages & Frameworks & Libraries**
 
