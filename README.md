@@ -37,7 +37,7 @@ me.say_hi()
 <div>
 
 <p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=geekmanesh&bg_color=0d006e&title_color=00FF00&text_color=FFFF00&icon_color=00FF00&hide_border=true&border_radius=10&stroke_color=FFFF00&username_color=FFFF00&revert=true&photo_quality=100&title=%20" />
+  <img src="https://gh-readme-profile.vercel.app/api?username=geekmanesh&bg_color=0d006e&title_color=00FF00&text_color=FFFF00&icon_color=00FF00&hide_border=true&border_radius=10&stroke_color=00FF00&username_color=00FF00&revert=true&photo_quality=100&title=%20" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geekmanesh&point=00FF00&title_color=ffffff&bg_color=0d006e&line=ffffff&hide_border=true&area=true&area_color=0d006e&color=ffffff&hide_title=true&days=33&">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geekmanesh&point=000000&title_color=ffffff&bg_color=0d006e&line=00FF00&hide_border=true&area=true&area_color=0d006e&color=ffffff&hide_title=true&days=33&">
 </p>
