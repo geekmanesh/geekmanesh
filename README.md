@@ -2,7 +2,7 @@
 class SoftwareEngineer(Human):
 
     def __init__(self):
-        self.name: str = "Hamidreza"
+        self.name: str = "Hamid"
         self.role: str = "Back-end Developer"
         self.language_spoken: dict = {"fa": "Persian/Farsi", "en": "English/USA"}
 
@@ -16,9 +16,18 @@ me.say_hi()
 
 <div align="center">
 
+**About Me:**
+
+I'm a **Python Backend Developer** who's genuinely excited about how the web works under the hood. APIs, backend architecture, data flow — this stuff fascinates me, and I'm always hungry to learn more.
+
+<p align="center">
+  <a href="mailto:geekmanesh@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=00FF00&color=0d006e" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/geekmanesh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=00FF00&color=0d006e" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 **Development Environment:**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=00FF00&color=0d006e&)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=00FF00&color=0d006e)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=00FF00&color=0d006e)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=00FF00&color=0d006e)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=00FF00&color=0d006e)
