@@ -2,7 +2,7 @@
 class SoftwareEngineer(Human):
 
     def __init__(self):
-        self.name: str = "Hamid"
+        self.name: str = "Hamidreza Qareqani"
         self.role: str = "Back-end Developer"
         self.language_spoken: dict = {"fa": "Persian/Farsi", "en": "English/USA"}
 
